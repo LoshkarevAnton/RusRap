@@ -12,3 +12,5 @@
 
 ![Выгрузка из Stylo](https://github.com/LoshkarevAnton/RusRap/blob/39a3712ce2adf31befe402d5df794c67eeb6a872/RusRap%20Stylo%20New.png)
 ![Выгрузка из Stylo](https://github.com/LoshkarevAnton/RusRap/blob/4fa73d701cf92ebe69e2738c4663b15318fd9a87/RusRap%20Stylo%20New2.png)
+
+Анализ при помощи Stylo показывает приблизительно ту же картину.
